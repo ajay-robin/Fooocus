@@ -1,5 +1,5 @@
 {
-    "default_model": "ponyRealism_v21MainVAE.safetensors",
+    "default_model": "CyberRealisticPony_V11.0_FP16.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -43,7 +43,7 @@
     "default_overwrite_step": -1,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
-        "ponyRealism_v21MainVAE.safetensors": "https://huggingface.co/LyliaEngine/ponyRealism_v21MainVAE/resolve/main/ponyRealism_v21MainVAE.safetensors"
+        "CyberRealisticPony_V11.0_FP16.safetensors": "https://huggingface.co/cyberdelia/CyberRealisticPony/resolve/main/CyberRealisticPony_V11.0_FP16.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
