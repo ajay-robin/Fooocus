@@ -46,7 +46,9 @@
         "CyberRealisticPony_V11.0_FP16.safetensors": "https://huggingface.co/cyberdelia/CyberRealisticPony/resolve/main/CyberRealisticPony_V11.0_FP16.safetensors"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {},
+        "lora_downloads": {
+        "sar333.safetensors": "https://civitai.com/api/download/models/958261?type=Model&format=SafeTensor"
+    },
     "vae_downloads": {
     }
 }
