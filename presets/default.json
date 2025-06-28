@@ -5,12 +5,12 @@
     "default_loras": [
         [
             true,
-            "None",
-            1.0
+            "RealSkin_xxXL_v1.safetensors",
+            3.1
         ],
         [
             true,
-            "None",
+            "Body Type_alpha1.0_rank4_noxattn_last.safetensors",
             1.0
         ],
         [
